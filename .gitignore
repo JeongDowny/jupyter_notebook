@@ -1,0 +1,6 @@
+#for yolo data
+yolo/
+
+#for jupyter notebook
+.ipynb_checkpoints/
+
